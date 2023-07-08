@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d54c91b3-44b9-4bb6-96f3-9b3b709d0d4e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yunyeji/springbootdeveloper/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yunyeji/springbootdeveloper/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yunyeji/springbootdeveloper/TestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/yunyeji/springbootdeveloper/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yunyeji/springbootdeveloper/TestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -40,6 +46,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -86,7 +93,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "editor.preferences.import",
     "spring.configuration.checksum": "a4933cc881ee29d1dc68800661a0d2bf",
     "vue.rearranger.settings.migration": "true"
   }
@@ -95,6 +102,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\workspace\springboot-developer\src\main" />
       <recent name="C:\workspace\springboot-developer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.yunyeji.springbootdeveloper" />
     </key>
   </component>
   <component name="RunManager">
@@ -128,7 +138,7 @@
       <workItem from="1688825156885" duration="1454000" />
       <workItem from="1688826646813" duration="314000" />
       <workItem from="1688826984502" duration="24000" />
-      <workItem from="1688827881164" duration="74000" />
+      <workItem from="1688827881164" duration="996000" />
     </task>
     <servers />
   </component>
